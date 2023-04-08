@@ -22,17 +22,19 @@ I'm an Android developer with a passion for creating intuitive and user-friendly
 As an Android developer, I'm skilled in the following technologies:
 
 - Programming languages: Kotlin, Java
-- Android Frameworks: Android SDK, Jetpack
+- Android Frameworks: Android SDK, Android Jetpack
+- Dependency Injection: Dagger 2, Hilt, Koin
+- Networking: Retrofit2
+- Reactive Programming: RxJava2
+- Architecture Patterns: MVP, MVVM, MVI, Clean Architecture
 - Databases: SQLite, Room
-- Tools and platforms: Android Studio, Git, Gradle
+- Cloud Services: Firebase, Firestore
+- Version Control: Git, GitFlow
+- Build Tools: Gradle
 
 ## 🚀 Work and Projects
 
 Check out some of my recent work on my [GitHub repositories](https://github.com/JekaK?tab=repositories). From e-commerce apps to social networking platforms, I enjoy working on a wide range of projects that showcase my Android development skills.
-
-## 📚 Blog
-
-I write about Android development and technology on my [personal blog](https://myblog.com). Follow me to stay up-to-date with the latest trends in Android development and learn new tips and tricks for writing high-quality code.
 
 ## 🤝 Let's connect!
 
@@ -40,7 +42,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/yevhenii-krykun-6a2740
 
 ## Fun facts about me:
 
-- I'm a huge fan of Japanese culture and language. I even took a few classes in college!
+- I'm a self-taught Japanese culture enthusiast, with a love for the language, food, and fashion!
 - I love playing strategy games, especially ones that involve building and managing a city or civilization.
 - I have a sweet tooth and can never resist a good dessert.
 - I enjoy watching documentaries about science and technology, especially ones that explore futuristic concepts.
