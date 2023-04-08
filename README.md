@@ -17,7 +17,18 @@ Here are some ideas to get you started:
 
 I'm an Android developer with a passion for creating intuitive and user-friendly mobile apps. When I'm not busy writing code, you can find me exploring new restaurants, playing video games, or watching my favorite TV shows.
 
+<p align="left">
+  <a href="https://github.com/JekaK">
+    <img src="https://komarev.com/ghpvc/?username=JekaK" alt="page views" />
+  </a>
+  <a href="https://github.com/JekaK?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/JekaK?color=green&logo=github">
+  </a>
+</p>
+
 ## 👨‍💻 Tech Stack
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 As an Android developer, I'm skilled in the following technologies:
 
