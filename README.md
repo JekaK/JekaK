@@ -32,16 +32,16 @@ I'm an Android developer with a passion for creating intuitive and user-friendly
 
 As an Android developer, I'm skilled in the following technologies:
 
-- Programming languages: Kotlin, Java
-- Android Frameworks: Android SDK, Android Jetpack
-- Dependency Injection: Dagger 2, Hilt, Koin
-- Networking: Retrofit2
-- Reactive Programming: RxJava2
-- Architecture Patterns: MVP, MVVM, MVI, Clean Architecture
-- Databases: SQLite, Room
-- Cloud Services: Firebase, Firestore
-- Version Control: Git, GitFlow
-- Build Tools: Gradle
+- 🤖 Programming languages: Kotlin, Java
+- 📱 Android Frameworks: Android SDK, Android Jetpack
+- 🗡️ Dependency Injection: Dagger 2, Hilt, Koin
+- 🌐 Networking: Retrofit2
+- 🔁 Reactive Programming: RxJava2
+- 🏗️ Architecture Patterns: MVP, MVVM, MVI, Clean Architecture
+- 🗄️ Databases: SQLite, Room
+- ☁️ Cloud Services: Firebase, Firestore
+- 🔀 Version Control: Git, GitFlow
+- 🛠️ Build Tools: Gradle
 
 <a href="https://github.com/JekaK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JekaK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JekaK's github stats" /></a> | <a href="https://github.com/JekaK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekaK&layout=compact&theme=buefy&hide_border=true" /></a>
 
