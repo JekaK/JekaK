@@ -36,7 +36,7 @@ As an Android developer, I'm skilled in the following technologies:
 - 📱 Android Frameworks: Android SDK, Android Jetpack
 - 🗡️ Dependency Injection: Dagger 2, Hilt, Koin
 - 🌐 Networking: Retrofit2
-- 🔁 Reactive Programming: RxJava2
+- 🔁 Reactive Programming: RxJava2, Coroutines, Flow
 - 🏗️ Architecture Patterns: MVP, MVVM, MVI, Clean Architecture
 - 🗄️ Databases: SQLite, Room
 - ☁️ Cloud Services: Firebase, Firestore
