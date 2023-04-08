@@ -43,7 +43,7 @@ As an Android developer, I'm skilled in the following technologies:
 - 🔀 Version Control: Git, GitFlow
 - 🛠️ Build Tools: Gradle
 
-<a href="https://github.com/JekaK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JekaK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JekaK's github stats" /></a> | <a href="https://github.com/JekaK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekaK&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/JekaK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JekaK&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="JekaK's github stats" /></a> | <a href="https://github.com/JekaK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekaK&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" /></a>
 
 ## 🚀 Work and Projects
 
